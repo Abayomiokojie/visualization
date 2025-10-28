@@ -71,13 +71,12 @@ This visualization is about How Many Avocado Toasts Does It Take To Afford A Dep
 🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
 ### Submission Parameters:
-
-- Submission Due Date: `23:59 - 06/07/2025`
-- The branch name for your repo should be: `assignment-2`
-- What to submit for this assignment:
-  - This markdown file (assignment_2.md) should be populated and should be the only change in your pull request.
-- What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/visualization/pull/<pr_id>`
-  - Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
+* Submission Due Date: `23:59 - 10/26/2025`
+* The branch name for your repo should be: `assignment-2`
+* What to submit for this assignment:
+    * This markdown file (assignment_2.md) should be populated and should be the only change in your pull request.
+* What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/visualization/pull/<pr_id>`
+    * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
 
