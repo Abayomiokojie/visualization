@@ -58,7 +58,7 @@
 
 ### Submission Parameters:
 
-- Submission Due Date: `23:59 - 06/07/2025`
+- Submission Due Date: `23:59 - 10/26/2025`
 - The branch name for your repo should be: `assignment-2`
 - What to submit for this assignment:
   - This markdown file (assignment_2.md) should be populated and should be the only change in your pull request.
