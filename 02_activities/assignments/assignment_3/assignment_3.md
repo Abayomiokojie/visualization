@@ -10,22 +10,33 @@
 - For each visualization, describe and justify:
 
   > What software did you use to create your data visualization?
+  > I used seaborn and tableau desktop to create the data visualizations.
 
   > Who is your intended audience?
+  > Healthcare professionals and stakeholders
 
   > What information or message are you trying to convey with your visualization?
+  > Dataset exploration - to see if age plays a role in the amount of people who have heart disease based on the dataset
 
   > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots?
+  > I considered the purpose and audience of the data visualization, chart type, visual hierarchy, color and contrast, encoding choices, labels, legends, and annotations. I also took accessibility into account maing sure the color contrast scores are high and texts/labels are legible.
 
   > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
 
-  > How did you ensure that your data visualization is accessible?
+In python, I used a random seed to ensure sampling would yield the same results.
+In Tableau, the visualization is not reproducible. Reasearchers interested in verifying the authenticity of the data visualization would not be able to inspect and reproduce the visualization. This leads to less trust in the authenticity of the visualization.
 
-  > Who are the individuals and communities who might be impacted by your visualization?
+> How did you ensure that your data visualization is accessible?
+> I used legible text, and ensured that the color contrast score was high.
 
-  > How did you choose which features of your chosen dataset to include or exclude from your visualization?
+> Who are the individuals and communities who might be impacted by your visualization?
+> Healthcare researchers, professionals, and stakeholders.
 
-  > What ‘underwater labour’ contributed to your final data visualization product?
+> How did you choose which features of your chosen dataset to include or exclude from your visualization?
+> This decision was made based on already known data and the purpose of the visualization. The message I was trying to pass across.
+
+> What ‘underwater labour’ contributed to your final data visualization product?
+> The underwater labour behind my visualization included cleaning the dataset to remove missing values, experimenting with different plot types to find the most informative one, and refining the labels and color palette so the audience could easily interpret the relationship. These steps aren’t visible in the final chart, but they were crucial to making it accurate and clear. Also, the data scientist who curated the data.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice!
 - Total word count should not exceed **(as a maximum) 1000 words**
@@ -53,17 +64,18 @@
 🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
 ### Submission Parameters:
-* Submission Due Date: `23:59 - 11/02/2025`
-* The branch name for your repo should be: `assignment-3`
-* What to submit for this assignment:
-    * A folder/directory containing:
-        * This file (assignment_3.md)
-        * Two data visualizations 
-        * Two markdown files for each both visualizations with their written descriptions.
-        * Link to your dataset of choice.
-        * Complete and commented code as an appendix (for your visualization made with Python, and for the other, if relevant) 
-* What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/visualization/pull/<pr_id>`
-    * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
+
+- Submission Due Date: `23:59 - 13/07/2025`
+- The branch name for your repo should be: `assignment-3`
+- What to submit for this assignment:
+  - A folder/directory containing:
+    - This file (assignment_3.md)
+    - Two data visualizations
+    - Two markdown files for each both visualizations with their written descriptions.
+    - Link to your dataset of choice.
+    - Complete and commented code as an appendix (for your visualization made with Python, and for the other, if relevant)
+- What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/visualization/pull/<pr_id>`
+  - Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
 
