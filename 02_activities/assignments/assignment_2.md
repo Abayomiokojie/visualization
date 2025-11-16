@@ -12,28 +12,48 @@
   - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
 
     ```
-    Your answer...
+    BAD DATA VIZUALIZATION EXAMPLE:
+        Source: https://www.bbc.com/worklife/article/20170530-the-avocado-toast-index-how-many-breakfasts-to-buy-a-house
 
+    This visualization is about How Many Avocado Toasts Does It Take To Afford A Deposit On A House. Ten cities are used in the study – Mexico City, Johannesburg, Berlin, Tokyo, New York, Sydney, Vancouver, San Francisco, Hong Kong, and London.
 
+    In this example, the visualization in the article by BBC Worklife is not really pleasing to look at. The color contrast is not great as light colours were used for text and background (white and light blue), with a combination of brown. It fails in Aesthetics.
 
+    The data visualization increases cognitive load and is difficult to grasp. The visualization is split into multiple parts, where 2 cities are used in each figure/graphic. This means, to interpret the visualization and understand it, one has to view all 3 or 4 slides of data. It involves heavy memory usage.
 
-
-
-
+    Also, in the visualization,  the wrong type of data visualization was used for data that could be communicated more clearly with a bar chart.
     ```
 
-  - How could this data visualization have been improved?
+  GOOD DATA VISUALIZATION EXAMPLE:
+  Source: https://public.tableau.com/app/profile/mcc.rpie/viz/AnnualDegreesandCertificates_16487718324400/Awards
 
-    ```
-    Your answer...
+  This visualization is about the annual count of degrees, certificates and diplomas awarded by MiraCosta College from 2014 to 2024.
 
+  The visualization has a sufficiently clean layout (for complex data), is pleasing to look at, use 2D imaging with geometric lines and shapes. It also includes a breakdown of the total figures below the graph.
 
+  ```
 
+  ```
 
+- How could this data visualization have been improved?
 
+      ```
 
+  For the Bad data visualization:
 
-    ```
+1. Using a bar chart or a similar graph would have been more appropriate and would eliminate the need for multiple graphs/data visualization. This would also lead to a cleaner layout, which would make the vizualization easier to understand.
+2. Adding the data source would make the visualization more trust worthy
+3. Using colors with high/better contrast would make the visualization more aesthetically pleasing
+
+For the Good data visualization:
+
+1. Some of the legends have similar colors (the colors look alike) and are hardly distinguishable. Using very different colors that could further help interpretation and understanding of the visualization, thereby reducing cognitive load.
+2. Also, adding a data source would make the data more trustworthy.
+3. The visualization uses a default colour choice of blue, with a colour palette that spreads across the different shades of blue. Some shades of blue used are similar and could make it hard to distinguish the different categories in the stacked bar chart, therefore posing an accessibility issue. This could be improved.
+
+   ```
+
+   ```
 
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e.
   300 words for your good example and 500 for your bad example)
